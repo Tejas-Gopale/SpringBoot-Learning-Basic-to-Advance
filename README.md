@@ -9,3 +9,5 @@ spring.datasource.password=database_password
 spring.datasource.driver-class-name=com.mysql.jdbc.Driver
 
 ==============================================================================
+springboot Data JPA and Hibernater and Spring ORM Differene
+
